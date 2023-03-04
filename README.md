@@ -21,6 +21,8 @@ The goal of this project is to configure a working Express.js API to use Sequeli
 Daniel Gardner
 
 ## Screenshots
+![Screenshot (33)](https://user-images.githubusercontent.com/115792714/222933237-632f07ca-fc05-432a-ad7b-98168e40821a.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/115792714/222933239-7a125610-e4d2-434b-a3a4-82a64f564804.png)
 
 ## How to Contribute
 
