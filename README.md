@@ -8,7 +8,7 @@ The goal of this project is to configure a working Express.js API to use Sequeli
 
 [Github]<https://github.com/gardnerd06/gardnerd06-E-Commerce>
 
-[APPVideo]<>
+[APPVideo]<https://watch.screencastify.com/v/z69foHIAW6QN8W9VIuck>
 
 ## Table of Content
 
